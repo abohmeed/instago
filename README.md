@@ -1,7 +1,9 @@
 # Installation
 ```go
 go build instago
-sudo instago /usr/local/bin/
+```
+```bash
+sudo mv instago /usr/local/bin/
 ```
 # Usage
 ```bash
