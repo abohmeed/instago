@@ -1,6 +1,6 @@
 # Installation
 ```go
-go build instago
+go build instago.go
 ```
 ```bash
 sudo mv instago /usr/local/bin/
