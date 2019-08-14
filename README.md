@@ -7,5 +7,5 @@ sudo mv instago /usr/local/bin/
 ```
 # Usage
 ```bash
-instago intagram_image_url
+instago instagram_image_url
 ```
